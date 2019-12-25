@@ -7,14 +7,11 @@ using System.Text;
 using System.Threading.Tasks;
 using DistanceLib;
 
-namespace WFHomeWork
-{
-	public partial class FormHW : Form
-	{
-		public FormHW()
-		{
+namespace WFHomeWork{
+	public partial class FormHW : Form{
+		public FormHW(){
 			InitializeComponent();
-			this.Text = "Мирсонов РТ5-31Б --- Домашнее задание";
+			this.Text = "Лисин РТ5-31Б --- Домашнее задание";
 		}
 
 		List<string> list = new List<string>();//список
