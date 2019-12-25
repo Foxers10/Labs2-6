@@ -1,0 +1,21 @@
+C:\VS GIT_copy\Lab 6 test\Lab6_Reflection\bin\Debug\netcoreapp2.0\Lab6_Reflection.deps.json
+C:\VS GIT_copy\Lab 6 test\Lab6_Reflection\bin\Debug\netcoreapp2.0\Lab6_Reflection.runtimeconfig.json
+C:\VS GIT_copy\Lab 6 test\Lab6_Reflection\bin\Debug\netcoreapp2.0\Lab6_Reflection.runtimeconfig.dev.json
+C:\VS GIT_copy\Lab 6 test\Lab6_Reflection\bin\Debug\netcoreapp2.0\Lab6_Reflection.dll
+C:\VS GIT_copy\Lab 6 test\Lab6_Reflection\bin\Debug\netcoreapp2.0\Lab6_Reflection.pdb
+C:\VS GIT_copy\Lab 6 test\Lab6_Reflection\obj\Debug\netcoreapp2.0\Lab6_Reflection.csprojAssemblyReference.cache
+C:\VS GIT_copy\Lab 6 test\Lab6_Reflection\obj\Debug\netcoreapp2.0\Lab6_Reflection.AssemblyInfoInputs.cache
+C:\VS GIT_copy\Lab 6 test\Lab6_Reflection\obj\Debug\netcoreapp2.0\Lab6_Reflection.AssemblyInfo.cs
+C:\VS GIT_copy\Lab 6 test\Lab6_Reflection\obj\Debug\netcoreapp2.0\Lab6_Reflection.dll
+C:\VS GIT_copy\Lab 6 test\Lab6_Reflection\obj\Debug\netcoreapp2.0\Lab6_Reflection.pdb
+C:\Users\foxer\Documents\тест\lab6\Lab6_Reflection\bin\Debug\netcoreapp2.0\Lab6_Reflection.deps.json
+C:\Users\foxer\Documents\тест\lab6\Lab6_Reflection\bin\Debug\netcoreapp2.0\Lab6_Reflection.runtimeconfig.json
+C:\Users\foxer\Documents\тест\lab6\Lab6_Reflection\bin\Debug\netcoreapp2.0\Lab6_Reflection.runtimeconfig.dev.json
+C:\Users\foxer\Documents\тест\lab6\Lab6_Reflection\bin\Debug\netcoreapp2.0\Lab6_Reflection.dll
+C:\Users\foxer\Documents\тест\lab6\Lab6_Reflection\bin\Debug\netcoreapp2.0\Lab6_Reflection.pdb
+C:\Users\foxer\Documents\тест\lab6\Lab6_Reflection\obj\Debug\netcoreapp2.0\Lab6_Reflection.csprojAssemblyReference.cache
+C:\Users\foxer\Documents\тест\lab6\Lab6_Reflection\obj\Debug\netcoreapp2.0\Lab6_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\foxer\Documents\тест\lab6\Lab6_Reflection\obj\Debug\netcoreapp2.0\Lab6_Reflection.AssemblyInfoInputs.cache
+C:\Users\foxer\Documents\тест\lab6\Lab6_Reflection\obj\Debug\netcoreapp2.0\Lab6_Reflection.AssemblyInfo.cs
+C:\Users\foxer\Documents\тест\lab6\Lab6_Reflection\obj\Debug\netcoreapp2.0\Lab6_Reflection.dll
+C:\Users\foxer\Documents\тест\lab6\Lab6_Reflection\obj\Debug\netcoreapp2.0\Lab6_Reflection.pdb

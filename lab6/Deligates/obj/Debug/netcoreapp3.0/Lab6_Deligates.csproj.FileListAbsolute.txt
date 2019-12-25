@@ -1,0 +1,11 @@
+C:\VS GIT_copy\testLab5\Deligates\bin\Debug\netcoreapp3.0\Lab6_Deligates.exe
+C:\VS GIT_copy\testLab5\Deligates\bin\Debug\netcoreapp3.0\Lab6_Deligates.deps.json
+C:\VS GIT_copy\testLab5\Deligates\bin\Debug\netcoreapp3.0\Lab6_Deligates.runtimeconfig.json
+C:\VS GIT_copy\testLab5\Deligates\bin\Debug\netcoreapp3.0\Lab6_Deligates.runtimeconfig.dev.json
+C:\VS GIT_copy\testLab5\Deligates\bin\Debug\netcoreapp3.0\Lab6_Deligates.dll
+C:\VS GIT_copy\testLab5\Deligates\bin\Debug\netcoreapp3.0\Lab6_Deligates.pdb
+C:\VS GIT_copy\testLab5\Deligates\obj\Debug\netcoreapp3.0\Lab6_Deligates.AssemblyInfoInputs.cache
+C:\VS GIT_copy\testLab5\Deligates\obj\Debug\netcoreapp3.0\Lab6_Deligates.AssemblyInfo.cs
+C:\VS GIT_copy\testLab5\Deligates\obj\Debug\netcoreapp3.0\Lab6_Deligates.dll
+C:\VS GIT_copy\testLab5\Deligates\obj\Debug\netcoreapp3.0\Lab6_Deligates.pdb
+C:\VS GIT_copy\testLab5\Deligates\obj\Debug\netcoreapp3.0\Lab6_Deligates.csprojAssemblyReference.cache

@@ -1,0 +1,19 @@
+C:\VS GIT_copy\Lab 6 test\WFHomeWork\bin\Debug\WFHomeWork.exe.config
+C:\VS GIT_copy\Lab 6 test\WFHomeWork\bin\Debug\WFHomeWork.exe
+C:\VS GIT_copy\Lab 6 test\WFHomeWork\bin\Debug\WFHomeWork.pdb
+C:\VS GIT_copy\Lab 6 test\WFHomeWork\obj\Debug\WFHomeWork.csprojAssemblyReference.cache
+C:\VS GIT_copy\Lab 6 test\WFHomeWork\obj\Debug\WFHomeWork.FormHW.resources
+C:\VS GIT_copy\Lab 6 test\WFHomeWork\obj\Debug\WFHomeWork.Properties.Resources.resources
+C:\VS GIT_copy\Lab 6 test\WFHomeWork\obj\Debug\WFHomeWork.csproj.GenerateResource.cache
+C:\VS GIT_copy\Lab 6 test\WFHomeWork\obj\Debug\WFHomeWork.exe
+C:\VS GIT_copy\Lab 6 test\WFHomeWork\obj\Debug\WFHomeWork.pdb
+C:\VS GIT_copy\Lab 6 test\WFHomeWork\bin\Debug\DistanceLib.dll
+C:\VS GIT_copy\Lab 6 test\WFHomeWork\bin\Debug\DistanceLib.pdb
+C:\VS GIT_copy\Lab 6 test\WFHomeWork\obj\Debug\WFHomeWork.csproj.CopyComplete
+C:\Users\foxer\Documents\тест\HW\obj\Debug\WFHomeWork.csprojAssemblyReference.cache
+C:\Users\foxer\Documents\тест\HW\obj\Debug\WFHomeWork.FormHW.resources
+C:\Users\foxer\Documents\тест\HW\obj\Debug\WFHomeWork.Properties.Resources.resources
+C:\Users\foxer\Documents\тест\HW\obj\Debug\WFHomeWork.csproj.GenerateResource.cache
+C:\Users\foxer\Documents\тест\HW\obj\Debug\WFHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\foxer\Documents\тест\HW\obj\Debug\WFHomeWork.exe
+C:\Users\foxer\Documents\тест\HW\obj\Debug\WFHomeWork.pdb

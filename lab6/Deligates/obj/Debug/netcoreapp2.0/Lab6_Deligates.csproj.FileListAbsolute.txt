@@ -1,0 +1,21 @@
+C:\VS GIT_copy\Lab 6 test\Deligates\bin\Debug\netcoreapp2.0\Lab6_Deligates.deps.json
+C:\VS GIT_copy\Lab 6 test\Deligates\bin\Debug\netcoreapp2.0\Lab6_Deligates.runtimeconfig.json
+C:\VS GIT_copy\Lab 6 test\Deligates\bin\Debug\netcoreapp2.0\Lab6_Deligates.runtimeconfig.dev.json
+C:\VS GIT_copy\Lab 6 test\Deligates\bin\Debug\netcoreapp2.0\Lab6_Deligates.dll
+C:\VS GIT_copy\Lab 6 test\Deligates\bin\Debug\netcoreapp2.0\Lab6_Deligates.pdb
+C:\VS GIT_copy\Lab 6 test\Deligates\obj\Debug\netcoreapp2.0\Lab6_Deligates.csprojAssemblyReference.cache
+C:\VS GIT_copy\Lab 6 test\Deligates\obj\Debug\netcoreapp2.0\Lab6_Deligates.AssemblyInfoInputs.cache
+C:\VS GIT_copy\Lab 6 test\Deligates\obj\Debug\netcoreapp2.0\Lab6_Deligates.AssemblyInfo.cs
+C:\VS GIT_copy\Lab 6 test\Deligates\obj\Debug\netcoreapp2.0\Lab6_Deligates.dll
+C:\VS GIT_copy\Lab 6 test\Deligates\obj\Debug\netcoreapp2.0\Lab6_Deligates.pdb
+C:\Users\foxer\Documents\тест\lab6\Deligates\bin\Debug\netcoreapp2.0\Lab6_Deligates.deps.json
+C:\Users\foxer\Documents\тест\lab6\Deligates\bin\Debug\netcoreapp2.0\Lab6_Deligates.runtimeconfig.json
+C:\Users\foxer\Documents\тест\lab6\Deligates\bin\Debug\netcoreapp2.0\Lab6_Deligates.runtimeconfig.dev.json
+C:\Users\foxer\Documents\тест\lab6\Deligates\bin\Debug\netcoreapp2.0\Lab6_Deligates.dll
+C:\Users\foxer\Documents\тест\lab6\Deligates\bin\Debug\netcoreapp2.0\Lab6_Deligates.pdb
+C:\Users\foxer\Documents\тест\lab6\Deligates\obj\Debug\netcoreapp2.0\Lab6_Deligates.csprojAssemblyReference.cache
+C:\Users\foxer\Documents\тест\lab6\Deligates\obj\Debug\netcoreapp2.0\Lab6_Deligates.csproj.CoreCompileInputs.cache
+C:\Users\foxer\Documents\тест\lab6\Deligates\obj\Debug\netcoreapp2.0\Lab6_Deligates.AssemblyInfoInputs.cache
+C:\Users\foxer\Documents\тест\lab6\Deligates\obj\Debug\netcoreapp2.0\Lab6_Deligates.AssemblyInfo.cs
+C:\Users\foxer\Documents\тест\lab6\Deligates\obj\Debug\netcoreapp2.0\Lab6_Deligates.dll
+C:\Users\foxer\Documents\тест\lab6\Deligates\obj\Debug\netcoreapp2.0\Lab6_Deligates.pdb
